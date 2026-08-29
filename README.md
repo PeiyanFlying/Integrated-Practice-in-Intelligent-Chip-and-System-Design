@@ -16,7 +16,7 @@
 选题文档下载链接：[点击下载](https://drive.google.com/file/d/1znV2XcdvJUuQkFOkuEn_bG4JQBTuSz9z/view?usp=drive_link)
 
 ## 报告递交
-1. 中期报告截止日期：2026/9/11, 23:59,[提交位置](https://drive.google.com/drive/folders/1VDabNBPR3wWhNySoT8-PQI1CHAJ5pVDB?usp=drive_link)
+1. 中期报告截止日期：2026/9/11, 23:59，[提交位置](https://drive.google.com/drive/folders/1VDabNBPR3wWhNySoT8-PQI1CHAJ5pVDB?usp=drive_link)
 2. 期末报告截止日期：2026/9/18, 23:59，[提交位置](https://drive.google.com/drive/folders/1pFJx11PoTRObFnuwstsKDISJFnSOLkGc?usp=drive_link)
 
 ## 说明

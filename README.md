@@ -13,7 +13,7 @@
 4. AI 医疗芯片：下一个扩展人类认知的方向
 
 ## 项目选题
-选题文档下载链接：[点击下载](https://docs.google.com/document/d/1bQN_ZMvuXK6XeVhTN7zvfwzFbeRjXJpq/edit?usp=drive_link)（[备用链接](https://drive.google.com/file/d/1znV2XcdvJUuQkFOkuEn_bG4JQBTuSz9z/view?usp=drive_link)）
+选题文档下载链接：[点击下载](https://drive.google.com/file/d/1znV2XcdvJUuQkFOkuEn_bG4JQBTuSz9z/view?usp=drive_link)
 
 ## 课程任务与考核明细
 1. 签到表全勤，到不了需要请假条

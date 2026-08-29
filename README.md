@@ -20,4 +20,4 @@
 2. 结题报告截止日期：2026/9/18, 23:59，[提交位置](https://drive.google.com/drive/folders/1pFJx11PoTRObFnuwstsKDISJFnSOLkGc?usp=drive_link)
 
 ## 说明
-如果上课来不了，请务必私信我请假条。具体格式标准好：时间、原因、姓名、班级。多谢！
+如果上课来不了，请务必私信我请假条。具体格式标准：时间、原因、姓名、班级。多谢！

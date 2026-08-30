@@ -13,7 +13,7 @@
 4. AI 医疗芯片：下一个扩展人类认知的方向
 
 ## 项目选题与考核明细
-选题文档下载链接：[点击下载](https://drive.google.com/file/d/1znV2XcdvJUuQkFOkuEn_bG4JQBTuSz9z/view?usp=drive_link)
+选题文档下载链接：[点击下载](https://drive.google.com/file/d/1znV2XcdvJUuQkFOkuEn_bG4JQBTuSz9z/view?usp=sharing)
 
 ## 报告递交
 1. 中期报告截止日期：2026/9/11, 23:59，[提交位置](https://drive.google.com/drive/folders/1VDabNBPR3wWhNySoT8-PQI1CHAJ5pVDB?usp=drive_link)

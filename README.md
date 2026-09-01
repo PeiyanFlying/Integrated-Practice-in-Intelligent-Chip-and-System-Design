@@ -8,7 +8,7 @@
 
 ## 课程资料（我会陆续上传）
 1. FPGA 神经网络开发
-2. Vivado 安装与基础使用
+2. Vivado 安装与基础使用 [安装视频](https://drive.google.com/file/d/144k5gpZay1K6_TKegOcY7FahNAwVHHe7/view?usp=sharing)、[案例](https://drive.google.com/file/d/12FnsWu6PwD2zyoI6VXWZTxIsGRmv3tRP/view?usp=sharing)
 3. 面向生成式生应用的高效人工智能系统与新型芯片架构
 4. AI 医疗芯片：下一个扩展人类认知的方向
 

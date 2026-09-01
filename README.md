@@ -16,8 +16,8 @@
 选题文档下载链接：[点击下载](https://drive.google.com/file/d/1znV2XcdvJUuQkFOkuEn_bG4JQBTuSz9z/view?usp=sharing)
 
 ## 报告递交
-1. 中期报告截止日期：2026/9/11, 23:59，[提交位置](https://drive.google.com/drive/folders/1VDabNBPR3wWhNySoT8-PQI1CHAJ5pVDB?usp=drive_link)
-2. 结题报告截止日期：2026/9/18, 23:59，[提交位置](https://drive.google.com/drive/folders/1pFJx11PoTRObFnuwstsKDISJFnSOLkGc?usp=drive_link)
+1. 中期报告截止日期：2026/9/11, 23:59，[提交位置](https://drive.google.com/drive/folders/1VDabNBPR3wWhNySoT8-PQI1CHAJ5pVDB?usp=sharing)
+2. 结题报告截止日期：2026/9/18, 23:59，[提交位置]([https://drive.google.com/drive/folders/1pFJx11PoTRObFnuwstsKDISJFnSOLkGc?usp=drive_link](https://drive.google.com/drive/folders/1pFJx11PoTRObFnuwstsKDISJFnSOLkGc?usp=sharing))
 
 ## 说明
 如果上课来不了，请务必私信我请假条。具体格式标准：时间、原因、姓名、班级。多谢！
